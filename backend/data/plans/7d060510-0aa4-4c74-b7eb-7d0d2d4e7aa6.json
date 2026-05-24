@@ -1,0 +1,308 @@
+{
+  "plan_id": "7d060510-0aa4-4c74-b7eb-7d0d2d4e7aa6",
+  "user_id": "default_user",
+  "conversation_id": "887b2061-57c8-4cf7-a642-a2d662933b68",
+  "title": "洛阳3日游",
+  "plan": {
+    "city": "洛阳",
+    "start_date": "2023-05-16",
+    "end_date": "2023-05-18",
+    "days": [
+      {
+        "date": "2023-05-16",
+        "day_index": 0,
+        "description": "第一天游览洛阳博物馆、龙门石窟和洛邑古城，感受历史文化与夜景美食",
+        "transportation": "公共交通（公交+地铁）",
+        "accommodation": "经济型酒店",
+        "hotel": {
+          "name": "都市118连锁酒店(洛阳龙门关林商贸店)",
+          "address": "钱江路转盘东20米",
+          "location": {
+            "longitude": 112.52,
+            "latitude": 34.62
+          },
+          "price_range": "150-200元",
+          "rating": "4.2",
+          "distance": "距离龙门石窟约3公里",
+          "type": "经济型酒店",
+          "estimated_cost": 180
+        },
+        "attractions": [
+          {
+            "name": "洛阳博物馆",
+            "address": "洛龙区聂泰路",
+            "location": {
+              "longitude": 112.434,
+              "latitude": 34.658
+            },
+            "visit_duration": 120,
+            "description": "国家一级博物馆，馆藏丰富，展示洛阳十三朝古都历史",
+            "category": "博物馆",
+            "rating": null,
+            "photos": [],
+            "poi_id": "",
+            "image_url": null,
+            "ticket_price": 0
+          },
+          {
+            "name": "龙门石窟",
+            "address": "洛龙区龙门镇",
+            "location": {
+              "longitude": 112.468,
+              "latitude": 34.555
+            },
+            "visit_duration": 180,
+            "description": "世界文化遗产，中国石刻艺术宝库，以卢舍那大佛闻名",
+            "category": "历史古迹",
+            "rating": null,
+            "photos": [],
+            "poi_id": "",
+            "image_url": null,
+            "ticket_price": 90
+          },
+          {
+            "name": "洛邑古城",
+            "address": "老城区九都路与柳林街交叉口",
+            "location": {
+              "longitude": 112.477,
+              "latitude": 34.68
+            },
+            "visit_duration": 120,
+            "description": "集文化、旅游、餐饮于一体的仿古街区，夜景优美，适合品尝洛阳水席",
+            "category": "古城街区",
+            "rating": null,
+            "photos": [],
+            "poi_id": "",
+            "image_url": null,
+            "ticket_price": 0
+          }
+        ],
+        "meals": [
+          {
+            "type": "breakfast",
+            "name": "方中山胡辣汤(洛阳一店)",
+            "address": null,
+            "location": null,
+            "description": "洛阳特色早餐，胡辣汤配油饼，香辣开胃",
+            "estimated_cost": 15
+          },
+          {
+            "type": "lunch",
+            "name": "凯旋门小馆·地道洛阳菜(政和路店)",
+            "address": null,
+            "location": null,
+            "description": "品尝地道洛阳菜，推荐洛阳燕菜、牡丹燕菜",
+            "estimated_cost": 45
+          },
+          {
+            "type": "dinner",
+            "name": "宴天下水席园(长兴街店)",
+            "address": null,
+            "location": null,
+            "description": "洛阳水席名店，体验传统水席文化，推荐牡丹燕菜、连汤肉片",
+            "estimated_cost": 65
+          }
+        ]
+      },
+      {
+        "date": "2023-05-17",
+        "day_index": 1,
+        "description": "第二天游览白马寺、关林，晚上在泉舜购物中心享用美食",
+        "transportation": "公共交通（公交）",
+        "accommodation": "经济型酒店",
+        "hotel": {
+          "name": "星期八·Unthink Hotel且晚且安民宿(丽景门十字街店)",
+          "address": "西门口街丽景门4号楼3单元",
+          "location": {
+            "longitude": 112.477,
+            "latitude": 34.68
+          },
+          "price_range": "160-220元",
+          "rating": "4.5",
+          "distance": "距离洛邑古城步行5分钟",
+          "type": "经济型民宿",
+          "estimated_cost": 190
+        },
+        "attractions": [
+          {
+            "name": "白马寺",
+            "address": "洛龙区白马寺镇",
+            "location": {
+              "longitude": 112.611,
+              "latitude": 34.727
+            },
+            "visit_duration": 150,
+            "description": "中国第一古刹，佛教传入中国后兴建的第一座寺院，有“释源”之称",
+            "category": "宗教寺庙",
+            "rating": null,
+            "photos": [],
+            "poi_id": "",
+            "image_url": null,
+            "ticket_price": 35
+          },
+          {
+            "name": "关林",
+            "address": "洛龙区关林镇",
+            "location": {
+              "longitude": 112.52,
+              "latitude": 34.62
+            },
+            "visit_duration": 90,
+            "description": "关羽首级埋葬地，全国重点文物保护单位，庙宇建筑宏伟",
+            "category": "历史古迹",
+            "rating": null,
+            "photos": [],
+            "poi_id": "",
+            "image_url": null,
+            "ticket_price": 40
+          }
+        ],
+        "meals": [
+          {
+            "type": "breakfast",
+            "name": "马杰山牛肉汤馆",
+            "address": null,
+            "location": null,
+            "description": "洛阳传统牛肉汤，汤鲜肉嫩，配烧饼完美",
+            "estimated_cost": 18
+          },
+          {
+            "type": "lunch",
+            "name": "小秦川(政和路总店)",
+            "address": null,
+            "location": null,
+            "description": "陕西风味与洛阳菜结合，推荐羊肉泡馍、凉皮",
+            "estimated_cost": 40
+          },
+          {
+            "type": "dinner",
+            "name": "胖哥俩肉蟹煲(洛阳泉舜店)",
+            "address": null,
+            "location": null,
+            "description": "网红肉蟹煲，香辣入味，适合年轻人",
+            "estimated_cost": 70
+          }
+        ]
+      },
+      {
+        "date": "2023-05-18",
+        "day_index": 2,
+        "description": "第三天游览丽景门、十字街，体验老城风情，下午结束行程",
+        "transportation": "公共交通（步行+公交）",
+        "accommodation": "经济型酒店",
+        "hotel": {
+          "name": "君逸公寓酒店(洛阳富雅东方店)",
+          "address": "中州路王城大道交汇处富雅东方A座23层",
+          "location": {
+            "longitude": 112.434,
+            "latitude": 34.658
+          },
+          "price_range": "150-200元",
+          "rating": "4.3",
+          "distance": "距离洛阳火车站约3公里",
+          "type": "经济型酒店",
+          "estimated_cost": 170
+        },
+        "attractions": [
+          {
+            "name": "丽景门",
+            "address": "老城区西大街",
+            "location": {
+              "longitude": 112.477,
+              "latitude": 34.68
+            },
+            "visit_duration": 60,
+            "description": "洛阳古城的象征，登城楼可俯瞰老城全景",
+            "category": "历史古迹",
+            "rating": null,
+            "photos": [],
+            "poi_id": "",
+            "image_url": null,
+            "ticket_price": 0
+          },
+          {
+            "name": "十字街夜市",
+            "address": "老城区兴华街",
+            "location": {
+              "longitude": 112.477,
+              "latitude": 34.68
+            },
+            "visit_duration": 90,
+            "description": "洛阳最热闹的小吃街，集中了各种地方特色美食",
+            "category": "美食街",
+            "rating": null,
+            "photos": [],
+            "poi_id": "",
+            "image_url": null,
+            "ticket_price": 0
+          }
+        ],
+        "meals": [
+          {
+            "type": "breakfast",
+            "name": "起源小厨(厚载门街店)",
+            "address": null,
+            "location": null,
+            "description": "洛阳本地人常去的早餐店，推荐小笼包、豆腐脑",
+            "estimated_cost": 15
+          },
+          {
+            "type": "lunch",
+            "name": "洛阳宴·新水席(正大店)",
+            "address": null,
+            "location": null,
+            "description": "创新水席体验，环境优雅，适合告别午餐",
+            "estimated_cost": 55
+          },
+          {
+            "type": "dinner",
+            "name": "德唯森环球自助料理洛阳首店",
+            "address": null,
+            "location": null,
+            "description": "环球自助餐，品种丰富，满足最后一天的口腹之欲",
+            "estimated_cost": 80
+          }
+        ]
+      }
+    ],
+    "weather_info": [
+      {
+        "date": "2023-05-16",
+        "day_weather": "晴",
+        "night_weather": "晴",
+        "day_temp": 30,
+        "night_temp": 16,
+        "wind_direction": "南风",
+        "wind_power": "1-3级"
+      },
+      {
+        "date": "2023-05-17",
+        "day_weather": "阴",
+        "night_weather": "阴",
+        "day_temp": 32,
+        "night_temp": 18,
+        "wind_direction": "南风",
+        "wind_power": "1-3级"
+      },
+      {
+        "date": "2023-05-18",
+        "day_weather": "阴",
+        "night_weather": "阴",
+        "day_temp": 29,
+        "night_temp": 14,
+        "wind_direction": "东北风",
+        "wind_power": "1-3级"
+      }
+    ],
+    "overall_suggestions": "洛阳5月中旬白天较热，建议穿短袖+薄外套，注意防晒。早晚温差大，带件外套。公共交通方便，推荐使用公交和地铁。龙门石窟建议下午游览，光线好；洛邑古城夜景更美。早餐一定要喝汤（牛肉汤、胡辣汤），午餐和晚餐尝试水席。酒店提前预订，尤其是节假日。",
+    "budget": {
+      "total_attractions": 165,
+      "total_hotels": 540,
+      "total_meals": 398,
+      "total_transportation": 60,
+      "total": 1163
+    }
+  },
+  "created_at": "2026-05-04T00:15:11.666683",
+  "updated_at": "2026-05-04T00:15:11.666683"
+}

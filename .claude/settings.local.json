@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -m app.api.main)",
+      "Bash(curl -s http://localhost:8000/health)",
+      "Bash(python -c \"from app.services.memory_service import get_memory_service; ms = get_memory_service\\(\\); print\\('Memory service initialized:', ms.health_check\\(\\)\\)\")",
+      "Bash(python *)",
+      "Bash(redis-cli *)",
+      "Bash(pip install *)",
+      "Bash(/d/Anaconda3/envs/helloagent/python.exe *)",
+      "Bash(xargs grep *)",
+      "Bash(xargs wc *)",
+      "Bash(netstat -ano)",
+      "Bash(findstr :8000)",
+      "Bash(findstr LISTENING)"
+    ]
+  }
+}
